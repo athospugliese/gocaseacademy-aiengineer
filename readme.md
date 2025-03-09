@@ -15,6 +15,9 @@ O sistema é composto por:
 1. **API Backend (FastAPI)**: Processa os arquivos Excel e gera PDFs com os PDIs
 2. **Frontend (Streamlit)**: Interface amigável para upload de arquivos e download dos PDIs
 3. **Agente de IA**: Utiliza LangGraph e GPT-4 para analisar os dados e gerar sugestões personalizadas
+   
+![App Screenshot](https://i.imgur.com/oN9AzuI.png)
+
 
 ## Requisitos
 
