@@ -4,7 +4,10 @@ Este sistema automatiza a geração de Planos de Desenvolvimento Individual (PDI
 
 ## Demonstração
 
-[🎥 Assista à demonstração](gocase_solution.mp4)
+<video width="600" controls>
+  <source src="gocase_solution.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos.
+</video>
 
 
 ## Arquitetura
